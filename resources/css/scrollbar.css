@@ -1,0 +1,33 @@
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #e9e9e9;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #2563eb; /* bg-blue-600 */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #3b82f6; /* bg-blue-500 */
+}
+
+/* Estilos del scrollbar en modo oscuro */
+.dark ::-webkit-scrollbar-track {
+  background: #4B5563; /* gray-600 */
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #2563eb; /* bg-blue-600 */
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #3b82f6; /* bg-blue-500 */
+}
