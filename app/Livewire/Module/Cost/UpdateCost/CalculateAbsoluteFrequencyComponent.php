@@ -4,9 +4,12 @@ namespace App\Livewire\Module\Cost\UpdateCost;
 
 use Livewire\Component;
 use Livewire\Attributes\On;
+use App\Livewire\Module\Traits\CloseModalClickTrait;
 
 class CalculateAbsoluteFrequencyComponent extends Component
 {
+    use CloseModalClickTrait;
+
     public $isVisibleCalculateAbsoluteFrequencyModal = false;
 
     public $l1 = 0;

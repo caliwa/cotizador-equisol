@@ -21,7 +21,7 @@ class="hs-overlay hs-overlay-open:translate-x-0 -translate-x-full  transform hid
                     <li class="sidebar-item">
                         <a  wire:ignore.self
                             href="/actualizar-costo"
-                            wire:navigate
+                            {{-- wire:navigate --}}
                             wire:current="pointer-events-none cursor-not-allowed active"
                             class="sidebar-link gap-3 py-2 px-3 rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500"
                         >
