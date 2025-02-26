@@ -37,35 +37,35 @@ class="hs-overlay hs-overlay-open:translate-x-0 -translate-x-full  transform hid
                     <li class="sidebar-item">
                         <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/buttons.html"
                         >
-                            <i class="ti ti-article  text-xl"></i> <span>Prueba 1</span>
+                            <i class="ti ti-article  text-xl"></i> <span>Administar Bódegas</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
                         <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/alerts.html"
                         >
-                            <i class="ti ti-alert-circle  text-xl"></i> <span>Prueba 2</span>
+                            <i class="ti ti-alert-circle  text-xl"></i> <span>Generar Certificados</span>
                         </a>
                     </li>        
 
                     <li class="sidebar-item">
                         <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/cards.html"
                         >
-                            <i class="ti ti-cards  text-xl"></i> <span>Prueba 3</span>
+                            <i class="ti ti-cards  text-xl"></i> <span>Formatos Impresión</span>
                         </a>
                     </li>   
 
                     <li class="sidebar-item">
                         <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/forms.html"
                         >
-                            <i class="ti ti-file-description  text-xl"></i> <span>Formularios 1</span>
+                            <i class="ti ti-file-description  text-xl"></i> <span>Historial de Logs por módulo</span>
                         </a>
                     </li> 
 
                     <li class="sidebar-item">
                         <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/typography.html"
                         >
-                            <i class="ti ti-typography text-xl"></i> <span>Prueba 4</span>
+                            <i class="ti ti-typography text-xl"></i> <span>Tarifas DHL</span>
                         </a>
                     </li>   
 
@@ -77,7 +77,7 @@ class="hs-overlay hs-overlay-open:translate-x-0 -translate-x-full  transform hid
                     <li class="sidebar-item">
                         <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./pages/authentication-login.html"
                         >
-                            <i class="ti ti-login  text-xl"></i> <span>Login</span>
+                            <i class="ti ti-login  text-xl"></i> <span>Logueo por QR</span>
                         </a>
                     </li>
 
@@ -96,14 +96,14 @@ class="hs-overlay hs-overlay-open:translate-x-0 -translate-x-full  transform hid
                     <li class="sidebar-item">
                         <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./pages/icons.html"
                         >
-                            <i class="ti ti-mood-happy  text-xl"></i> <span>Íconos</span>
+                            <i class="ti ti-mood-happy  text-xl"></i> <span>Roles</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
                         <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./pages/sample-page.html"
                         >
-                            <i class="ti ti-aperture  text-xl"></i> <span>Test</span>
+                            <i class="ti ti-aperture  text-xl"></i> <span>Permisos</span>
                         </a>
                     </li>
 

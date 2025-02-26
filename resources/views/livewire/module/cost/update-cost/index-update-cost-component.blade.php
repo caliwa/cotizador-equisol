@@ -1,4 +1,4 @@
-<div>
+<div class="h-screen">
     <div wire:loading
         wire:target="OpenMainModal"
         class="fixed inset-0 flex items-center justify-center z-50 bg-white dark:bg-black bg-opacity-60">
@@ -15,7 +15,8 @@
         </div>
     </div>
 
-    <div class="px-4 pb-1 bg-white sm:block flex items-center justify-between border-b border-gray-200 lg:mt-1 dark:bg-gray-800 dark:border-gray-700">
+    <div
+    class="px-4 pb-1 bg-white sm:block flex items-center justify-between border-b border-gray-200 lg:mt-1 dark:bg-gray-800 dark:border-gray-700">
         <div class="w-full">
             <div class="mb-4">
                 <nav class="flex mt-3" aria-label="Breadcrumb">
@@ -68,7 +69,6 @@
                             </div>
                         </div>
                         <div class="w-[20%]">
-
                             <div class="block w-full">
                                 <div class="flex relative w-full mt-5">
                                     <button @click="openModal($event)" 
@@ -90,6 +90,18 @@
                                 </div>
                             </div>
                         </div>
+                        {{-- <div class="w-[60%]  justify-center items-center">
+                            <div class="block justify-center items-center">
+
+                                <img 
+                                    src="https://static.vecteezy.com/ti/vetor-gratis/t1/10311019-velocimetro-icone-em-fundo-branco-colorido-indicador-sinal-credito-score-metro-simbolo-estilo-plano-vetor.jpg" 
+                                    alt="Logo"
+                                    class="h-32 w-auto justify-center items-center"
+                                >
+                            </div>
+
+                        </div> --}}
+
                     </div>
                 </div>
 
