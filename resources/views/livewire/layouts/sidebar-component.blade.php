@@ -2,7 +2,7 @@
 class="hs-overlay hs-overlay-open:translate-x-0 -translate-x-full  transform hidden xl:block xl:translate-x-0 xl:end-auto xl:bottom-0 fixed top-0 with-vertical h-screen z-[10] flex-shrink-0 border-r-[1px] w-[270px] border-gray-400  bg-white left-sidebar   transition-all duration-300" >
     <div class="p-5" >
 
-    <a href="../" class="text-nowrap">
+    <a href="/menu-principal" class="text-nowrap">
         <img
         src="{{ asset('/img/equisol-logo.png') }}"
         alt="Logo-Dark"
@@ -35,35 +35,35 @@ class="hs-overlay hs-overlay-open:translate-x-0 -translate-x-full  transform hid
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/buttons.html"
+                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="#"
                         >
                             <i class="ti ti-article  text-xl"></i> <span>Administar Bódegas</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/alerts.html"
+                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="#"
                         >
                             <i class="ti ti-alert-circle  text-xl"></i> <span>Generar Certificados</span>
                         </a>
                     </li>        
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/cards.html"
+                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="#"
                         >
                             <i class="ti ti-cards  text-xl"></i> <span>Formatos Impresión</span>
                         </a>
                     </li>   
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/forms.html"
+                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="#"
                         >
                             <i class="ti ti-file-description  text-xl"></i> <span>Historial de Logs por módulo</span>
                         </a>
                     </li> 
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./components/typography.html"
+                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="#"
                         >
                             <i class="ti ti-typography text-xl"></i> <span>Tarifas DHL</span>
                         </a>
@@ -75,16 +75,16 @@ class="hs-overlay hs-overlay-open:translate-x-0 -translate-x-full  transform hid
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./pages/authentication-login.html"
+                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="#"
                         >
                             <i class="ti ti-login  text-xl"></i> <span>Logueo por QR</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./pages/authentication-register.html"
+                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="../"
                         >
-                            <i class="ti ti-user-plus  text-xl"></i> <span>Registro</span>
+                            <i class="ti ti-user-plus  text-xl"></i> <span>Cerrar Sesión</span>
                         </a>
                     </li>  
 
@@ -94,14 +94,14 @@ class="hs-overlay hs-overlay-open:translate-x-0 -translate-x-full  transform hid
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./pages/icons.html"
+                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="#"
                         >
                             <i class="ti ti-mood-happy  text-xl"></i> <span>Roles</span>
                         </a>
                     </li>
 
                     <li class="sidebar-item">
-                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="./pages/sample-page.html"
+                        <a class="sidebar-link gap-3 py-2 px-3  rounded-md w-full flex items-center hover:text-blue-600 hover:bg-blue-500" href="#"
                         >
                             <i class="ti ti-aperture  text-xl"></i> <span>Permisos</span>
                         </a>

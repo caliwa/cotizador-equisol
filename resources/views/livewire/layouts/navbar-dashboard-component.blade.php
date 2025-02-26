@@ -64,10 +64,13 @@
             </li>
         </ul>
         <div class="flex items-center gap-4">
-            <a href="#" class="btn font-medium hover:bg-blue-700 py-2" aria-current="page">Test</a>
+            <a href="#" class="btn font-medium hover:bg-blue-700 py-2" aria-current="page">Mis indicadores</a>
             <div class="hs-dropdown relative inline-flex [--placement:bottom-right] sm:[--trigger:hover]">
                 <a class="relative hs-dropdown-toggle cursor-pointer align-middle rounded-full">
-                    <img class="object-cover w-9 h-9 rounded-full" src="./assets/images/profile/user-1.jpg" alt=""
+                    <img class="object-cover w-9 h-9 rounded-full"
+                         src="https://static01.nyt.com/newsgraphics/2020/11/12/fake-people/4b806cf591a8a76adfc88d19e90c8c634345bf3d/fallbacks/mobile-01.jpg"
+                         alt=""
+                    
                         aria-hidden="true">
                 </a>
                 <div class="card hs-dropdown-menu transition-[opacity,margin] border border-gray-400 rounded-[7px] duration hs-dropdown-open:opacity-100 opacity-0 mt-2 min-w-max  w-[200px] hidden z-[12]"
